@@ -1,0 +1,47 @@
+.title{
+  color: FireBrick;
+  font-family: Comic Sans MS;
+}
+body{
+  background: #F60;
+  background: linear-gradient(-45deg, #F60, #141E30);
+}
+.utphoto{
+    background-image: url("utphoto.jpg");
+	background-size: cover;
+  	background-position: center;
+  	height: 450px;
+}
+.caption{
+  display: block;
+  font-family: 'Playfair Display', serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 14px;
+  margin-left: 20px;
+  padding: 10px;
+  position: relative;
+  top: 80%;
+  width: 12%;
+  background-color: white;
+  color: black;
+  opacity: .75;
+}
+
+.tabs{
+	text-align: center;
+	text-shadow:#000;
+	font-size: 25px;
+}
+h1{
+	text-align: center;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.publish-time{
+  color: gray;
+}
+.first{
+	font-family: Courier New;
+}
